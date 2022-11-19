@@ -1,0 +1,4 @@
+config ZENOHPICO
+	bool "Enable ZenohPico"
+	help
+		Set this option to enable ZenohPico
